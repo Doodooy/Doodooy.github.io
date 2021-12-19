@@ -1,0 +1,10 @@
+body {
+	background-color: red;
+}
+.burp {
+	width: 100px;
+	height: 100px;
+	background-color: aqua;
+	display: flex;
+	margin: auto;
+}
