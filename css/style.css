@@ -8,3 +8,12 @@ body {
 	display: flex;
 	margin: auto;
 }
+html  {background-color: rgb(29, 69, 156)
+}
+#doc3
+ {
+    margin: auto 10px;
+    width: auto;
+    height: 2000px;
+    background-color: yellow;
+}
