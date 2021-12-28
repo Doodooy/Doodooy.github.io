@@ -36,3 +36,15 @@
 	}
   }
 
+.textbg {
+	width: 600px;
+	height: 180px;
+	background-color: rgb(104, 103, 103);
+	position: absolute;
+	top: 150px;
+	left: 270px;
+	
+}
+.textbg:hover .img {
+	transform: translateY(0) scale(1.2);
+  }
